@@ -1,0 +1,6 @@
+fastapi
+mangum
+pydantic
+huggingface_hub
+python-dotenv
+google-cloud-functions
